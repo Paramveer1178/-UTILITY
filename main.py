@@ -6,4 +6,4 @@ client = discord.event()
 
 
 
-client.run("MTAxNTY1ODM3NDc1NjU4NTUwMg.GpPPss.UEhGf7UsAYjqvy-YOdJNpRdcmcHQapHHmBBwj4") 
+client.run("MTAxNTY1ODM3NDc1NjU4NTUwMg.GQeZHu.2WxbNhVYs346y4zEU7UI0-fwLqTPd6XD-6C5rk") 
